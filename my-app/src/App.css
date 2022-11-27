@@ -39,6 +39,7 @@
     --mb-0-5: 0.5rem;
     --mb-0-75: 0.75rem;
     --mb-1: 1rem;
+    --mb-1-5: 1.5rem;
     --mb-2: 2rem;
     --mb-2-5: 2.5;
     --m-3: 3rem;
@@ -177,11 +178,12 @@ img
 .button__icon
 {
     margin-left: var(--mb-0-5);
+    
 }
 
 .button--flex
 {
-    display: incline-flex;
+    display: inline-flex;
     align-items: center;
 
 }
